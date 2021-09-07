@@ -1,1 +1,2 @@
-Hello
+#이름:
+print(Hello)
